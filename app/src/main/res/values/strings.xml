@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="category_job">Category</string>
+    <string name="posted">Posted: </string>
+    <string name="view_details">View Details</string>
+    <string name="toolbar_title">Demo</string>
+    <string name="hired_text">hired</string>
+    <string name="item_close">Close</string>
+
+</resources>
